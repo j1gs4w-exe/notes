@@ -1,3 +1,3 @@
 # dotFile 
 
-# All of my Note
+# All of my Notes
