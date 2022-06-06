@@ -1,3 +1,3 @@
 # dotFile 
 
-# All of my No
+# All of my Not
