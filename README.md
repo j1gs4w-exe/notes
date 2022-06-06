@@ -1,3 +1,3 @@
 # dotFile
 
-# Note
+# Notes
