@@ -1,3 +1,3 @@
 # dotFile
 
-# No
+# Not
