@@ -1,3 +1,3 @@
 # dotFile 
 
-# All o
+# All of
