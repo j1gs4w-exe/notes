@@ -11,6 +11,7 @@ Python Syntax
 Python Comments
 
 Python Variables
+
 Python Data Types
 Python Numbers
 Python Casting
