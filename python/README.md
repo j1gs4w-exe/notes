@@ -25,6 +25,7 @@ Python Booleans
 Python Operators
 
 Python Lists
+
 Python Tuples
 Python Sets
 Python Dictionaries
