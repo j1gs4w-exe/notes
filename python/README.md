@@ -3,6 +3,7 @@
 Python HOME
 
 Python Intro
+
 Python Get Started
 Python Syntax
 Python Comments
