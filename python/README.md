@@ -21,6 +21,7 @@ Python Casting
 Python Strings
 
 Python Booleans
+
 Python Operators
 Python Lists
 Python Tuples
