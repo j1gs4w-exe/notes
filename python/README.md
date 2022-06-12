@@ -15,6 +15,7 @@ Python Variables
 Python Data Types
 
 Python Numbers
+
 Python Casting
 Python Strings
 Python Booleans
