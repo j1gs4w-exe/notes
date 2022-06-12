@@ -19,6 +19,7 @@ Python Numbers
 Python Casting
 
 Python Strings
+
 Python Booleans
 Python Operators
 Python Lists
