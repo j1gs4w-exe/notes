@@ -47,6 +47,7 @@ Python Arrays
 Python Classes/Objects
 
 Python Inheritance
+
 Python Iterators
 Python Scope
 Python Modules
