@@ -43,6 +43,7 @@ Python Functions
 Python Lambda
 
 Python Arrays
+
 Python Classes/Objects
 Python Inheritance
 Python Iterators
