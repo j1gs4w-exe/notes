@@ -51,6 +51,7 @@ Python Inheritance
 Python Iterators
 
 Python Scope
+
 Python Modules
 Python Dates
 Python Math
