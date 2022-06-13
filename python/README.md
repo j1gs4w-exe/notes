@@ -37,6 +37,7 @@ Python If...Else
 Python While Loops
 
 Python For Loops
+
 Python Functions
 Python Lambda
 Python Arrays
