@@ -1,6 +1,6 @@
 # Python Tutorial
 
-# Python Intro
+## Python Intro
 
 Python Get Started
 
