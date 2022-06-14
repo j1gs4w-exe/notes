@@ -1,6 +1,5 @@
 ## Python Tutorial
 
-
 Python Intro
 
 Python Get Started
