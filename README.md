@@ -1,4 +1,3 @@
-
 # All of my Notes
 
 
