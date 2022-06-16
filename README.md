@@ -4,7 +4,7 @@ Languages
 
 ctf
 
-too
+tool
 
 
 
