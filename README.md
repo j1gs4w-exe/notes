@@ -1,6 +1,6 @@
 # All of my Notes
 
-Language
+Languages
 
 
 
